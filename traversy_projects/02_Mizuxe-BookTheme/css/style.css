@@ -30,9 +30,9 @@ body {
   margin-top: -50px; }
 #authors .card:hover {
   background: #3292a6;
-  color: white; }
+  color: #fff; }
 #authors .fab {
-  color: white; }
+  color: #fff; }
 
 @media (max-width: 768px) {
   #showcase {
